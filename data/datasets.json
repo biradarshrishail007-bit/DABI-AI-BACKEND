@@ -1,0 +1,35 @@
+{
+    "datasets": [
+        {
+            "dataset_id": "ds_5fdc9a44",
+            "original_name": "uber-data (8) (1).csv",
+            "stored_name": "ds_5fdc9a44.csv",
+            "rows": 6745,
+            "columns": 6,
+            "column_names": [
+                "Request id",
+                "Pickup point",
+                "Driver id",
+                "Status",
+                "Request timestamp",
+                "Drop timestamp"
+            ]
+        },
+        {
+            "dataset_id": "ds_1e73f5ac",
+            "original_name": "uber-data (8) (1).csv",
+            "stored_name": "ds_1e73f5ac.csv",
+            "rows": 6745,
+            "columns": 6,
+            "column_names": [
+                "Request id",
+                "Pickup point",
+                "Driver id",
+                "Status",
+                "Request timestamp",
+                "Drop timestamp"
+            ]
+        }
+    ],
+    "active_dataset_id": "ds_1e73f5ac"
+}
